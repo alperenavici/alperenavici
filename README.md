@@ -35,7 +35,6 @@ My main interests:
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=alperenavici&show_icons=true&theme=default" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenavici&theme=default" />
 
 </div>
 
