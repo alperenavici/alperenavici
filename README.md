@@ -1,6 +1,6 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Hi+I'm+Alperen+Avcı!;Computer+Engineering+Student;Fullstack+Developer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Hi+I'm+Alperen+Avcı!;Fullstack+Developer; Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
@@ -26,17 +26,6 @@ I like:
 
 <!-- badges -->
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,prisma,docker,git,github,figma,vscode&theme=light" />
-
-</div>
-
----
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<div align="center">
-  
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alperenavci&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenavci&theme=default" />
 
 </div>
 
