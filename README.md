@@ -50,7 +50,7 @@ I like:
 
 <div align="center">
 
-📧 **Email:** alperen@example.com  
+📧 **Email:** a.avci.alperen@gmail.com  
 🌐 **Website:** https://alperenavci.dev
 
 </div>
