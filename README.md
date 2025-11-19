@@ -1,6 +1,5 @@
-<!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Hi+I'm+Alperen+Avcı!;Fullstack+Developer; Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Hi+I'm+Alperen!;Computer+Engineering+Student;Fullstack+Developer;Welcome+to+my+GitHub!" />
 </p>
 
 ---
@@ -8,15 +7,16 @@
 <h2 align="center"> 🚀 About Me </h2>
 
 I'm **Alperen**, a **Computer Engineering student** at Selçuk University.  
-I love building **modern, fast and clean** web applications.  
+I enjoy building **modern, fast, scalable** web applications.  
 
-I like:
-- Creating **frontend UI** with React
-- Building **backend services** with Node.js & TypeScript
-- Making **full-stack projects** with clear architecture
-- Learning new technologies every day
+My main interests:
+- Building **frontend interfaces** with React  
+- Developing backend services with **Node.js**, **NestJS**, and **ASP.NET Core**  
+- Creating clean, scalable **full-stack architectures**  
+- API design, performance tuning, error handling, logging  
+- Learning and using new technologies in real projects  
 
-🌐 **My Portfolio:** https://alperenavci.dev/
+🌐 **Portfolio:** https://alperenavci.dev/
 
 ---
 
@@ -24,33 +24,50 @@ I like:
 
 <div align="center">
 
-<!-- badges -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,prisma,docker,git,github,figma,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,dotnet,cs,postgres,prisma,docker,git,github,figma,vscode&theme=light" />
 
 </div>
 
 ---
 
-<h2 align="center"> ✨ Featured Projects </h2>
-
-### 🔹 **Modern Web Applications**
-- Clean UI, scalable architecture  
-- Built with React, Node.js, Prisma, and PostgreSQL
-
-### 🔹 **REST API Development**
-- Secure auth systems  
-- JWT, OAuth, password reset, email verification
-
-### 🔹 **AI-powered Integrations**
-- Using modern AI tech (Google Gemini / LLM integrations)
-
----
-
-<h2 align="center"> 📬 Contact Me </h2>
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
 
-📧 **Email:** a.avci.alperen@gmail.com  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=alperenavci&show_icons=true&theme=default" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alperenavci&theme=default" />
+
+</div>
+
+---
+
+<h2 align="center"> ✨ What I Do </h2>
+
+### 🔹 **Modern Web Applications**
+- Clean UI and fast user experience  
+- Built with React, Next.js
+
+### 🔹 **Backend Development**
+- **NestJS** for modular, scalable backend systems  
+- **ASP.NET Core** for high-performance APIs  
+- Authentication, authorization, validation, caching, logging
+
+### 🔹 **Databases**
+- PostgreSQL  
+- Prisma  
+- Entity Framework Core
+
+### 🔹 **AI Integrations**
+- Google Gemini  
+- LLM-based smart features
+
+---
+
+<h2 align="center"> 📬 Contact </h2>
+
+<div align="center">
+
+📧 **Email:** alperen@example.com  
 🌐 **Website:** https://alperenavci.dev
 
 </div>
@@ -63,6 +80,4 @@ I like:
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
----
-
-<p align="center">⭐ If you like my work, feel free to star my repositories!</p>
+<p align="center">⭐ If you enjoy my work, feel free to star my repos!</p>
