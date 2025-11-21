@@ -28,15 +28,6 @@ My main interests:
 
 </div>
 
----
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alperenavici&show_icons=true&theme=default" />
-
-</div>
 
 ---
 
