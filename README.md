@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Merhaba%2C+Ben+Alperen!;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Fullstack+Geli%C5%9Ftirici;GitHub+Profilime+Ho%C5%9F+Geldiniz!+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00AEEF&center=true&vCenter=true&lines=Merhaba%2C+Ben+Alperen!;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Fullstack+Geli%C5%9Ftirici;GitHub+Profilime+Ho%C5%9F+Geldiniz!" />
 </div>
 
 <br>
@@ -24,12 +24,12 @@ Selçuk Üniversitesi'nde **Bilgisayar Mühendisliği öğrencisi** ve **Fullsta
 
 Amacım: Temiz kod, performans optimizasyonu ve kullanıcı odaklı mimariler oluşturmaktır.
 
-### 🌱 İlgi Alanlarım & Odak Noktalarım
+### ✨ İlgi Alanlarım & Odak Noktalarım
 
 * **Frontend Mimarisi:** React ve Next.js ile yüksek performanslı kullanıcı arayüzleri.
 * **Backend Sistemler:** Node.js, **NestJS** ve **ASP.NET Core** ile güçlü, modüler servisler.
 * **Full-Stack Çözümler:** Uçtan uca temiz ve ölçeklenebilir mimarilerin tasarımı.
-* **Modern Uygulama Konseptleri:** API tasarımı, performans ayarlama, caching ve detaylı loglama.
+* **Konseptler:** API tasarımı, performans ayarlama, caching ve detaylı loglama.
 * **Yapay Zeka Entegrasyonu:** Google Gemini gibi LLM'ler ile akıllı özellikler eklemek.
 
 ---
@@ -40,47 +40,41 @@ Teknoloji yığınımı (Tech Stack) projelerimin ihtiyacına göre şekillendir
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,dotnet,cs,postgres,prisma,docker,git,github,figma,vscode&theme=light" />
-    <br><br>
-    </div>
+</div>
 
 ---
 
-## ✨ Neler Yapıyorum?
+## 🚀 Proje Alanları
 
-### 🌐 Modern Web ve UI/UX
-* **React / Next.js** tabanlı hızlı ve temiz kullanıcı deneyimi sunan arayüzler.
-* Statik sitelerden, sunucu tabanlı (SSR) uygulamalara kadar çeşitli çözümler.
+### 🌐 Modern Web Uygulamaları
+* React / Next.js tabanlı hızlı ve temiz kullanıcı deneyimi sunan arayüzler.
 
-### 🚀 Ölçeklenebilir Backend Geliştirme
-* **NestJS** ile kurumsal düzeyde, modüler ve test edilebilir backend sistemleri.
+### ⚙️ Ölçeklenebilir Backend Geliştirme
+* **NestJS** ile kurumsal düzeyde, modüler backend sistemleri.
 * Yüksek verimli API'ler için **ASP.NET Core** kullanımı.
-* Kimlik doğrulama, yetkilendirme, veri doğrulama ve önbellekleme (caching) uygulamaları.
+* Kimlik doğrulama, yetkilendirme, veri doğrulama ve önbellekleme uygulamaları.
 
-### 💾 Veritabanı ve ORM
+### 💾 Veritabanı Yönetimi
 * Güvenilir ve ilişkisel veriler için **PostgreSQL**.
 * **Prisma** ve **Entity Framework Core** ile tip güvenli ve modern veritabanı etkileşimi.
 
-### 🧠 Yapay Zeka Özellikleri (AI/LLM)
-* Uygulamalarıma **Gemini** gibi LLM'ler entegre ederek akıllı ve yenilikçi özellikler katıyorum.
+### 💡 AI Entegrasyonları
+* Uygulamalara Gemini gibi LLM'ler entegre ederek akıllı ve yenilikçi özellikler katmak.
 
 ---
 
 <div align="center">
     
-## 💻 GitHub İstatistikleri (Opsiyonel)
+## 📈 GitHub Aktivitem
+
 <a href="https://github.com/alperen-avci">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperen-avci&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Alperen'in GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alperen-avci&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Alperen'in GitHub İstatistikleri" />
 </a>
 
 <a href="https://github.com/alperen-avci">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperen-avci&layout=compact&theme=default&hide_border=true" alt="Alperen'in En Çok Kullanılan Dilleri" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alperen-avci&theme=default&hide_border=true" alt="Alperen'in GitHub Commit Serisi" />
 </a>
-
 <br>
-    
-## 🌟 Fun Fact
-    
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Fun Fact GIF" />
 
 <p>Projelerimi faydalı buluyorsanız, bir ⭐ vermeyi unutmayın! İyi kodlamalar!</p>
 
