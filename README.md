@@ -68,11 +68,11 @@ Teknoloji yığınımı (Tech Stack) projelerimin ihtiyacına göre şekillendir
 ## 📈 GitHub Aktivitem
 
 <a href="https://github.com/alperen-avci">
-  <img src="https://github-readme-stats.vercel.app/api?username=alperen-avci&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Alperen'in GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alperenavici&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Alperen'in GitHub İstatistikleri" />
 </a>
 
 <a href="https://github.com/alperen-avci">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=alperen-avci&theme=default&hide_border=true" alt="Alperen'in GitHub Commit Serisi" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=alperenavici&theme=default&hide_border=true" alt="Alperen'in GitHub Commit Serisi" />
 </a>
 <br>
 
