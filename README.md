@@ -28,15 +28,6 @@ My main interests:
 
 </div>
 
----
-
-<h2 align="center"> 📊 GitHub Stats </h2>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alperenavici&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Alperen Avici GitHub İstatistikleri" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenavici&layout=compact&theme=dark&hide_title=true&langs_count=6" alt="Alperen Avici En Çok Kullanılan Dilleri" />
-</div>
 
 ---
 
@@ -79,3 +70,6 @@ My main interests:
 <img src="http://googleusercontent.com/image_collection/image_retrieval/13914649736544320118_0" width="320" alt="Simpsons yazılımcı gif" /></p>
 
 <p align="center">⭐ If you enjoy my work, feel free to star my repos!</p>
+
+
+yukarıdaki readme benim github profilimdeki readme benim github istatistiklerimide göstersin readme de 
