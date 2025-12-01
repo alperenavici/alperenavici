@@ -30,12 +30,12 @@ My main interests:
 
 ---
 
-<h2 align="📊 GitHub Stats </h2>
+<h2 align="center"> 📊 GitHub Stats </h2>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=**alperenavici**&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Alperen'in GitHub İstatistikleri" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alperenavci&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Alperen Avci GitHub İstatistikleri" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=**alperenavici**&layout=compact&theme=dark&hide_title=true&langs_count=6" alt="Alperen'in En Çok Kullanılan Dilleri" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alperenavci&layout=compact&theme=dark&hide_title=true&langs_count=6" alt="Alperen Avci En Çok Kullanılan Dilleri" />
 </div>
 
 ---
