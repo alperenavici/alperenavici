@@ -64,10 +64,6 @@ My main interests:
 
 ---
 
-<h2 align="center"> ⚡ Fun GIF </h2>
-
-<p align="center">
-<img src="http://googleusercontent.com/image_collection/image_retrieval/13914649736544320118_0" width="320" alt="Simpsons yazılımcı gif" /></p>
 
 <p align="center">⭐ If you enjoy my work, feel free to star my repos!</p>
 
