@@ -61,11 +61,3 @@ My main interests:
 🌐 **Website:** https://alperenavci.dev
 
 </div>
-
----
-
-
-<p align="center">⭐ If you enjoy my work, feel free to star my repos!</p>
-
-
-yukarıdaki readme benim github profilimdeki readme benim github istatistiklerimide göstersin readme de 
